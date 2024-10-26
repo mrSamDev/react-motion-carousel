@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/features/logger/index.ts","./src/features/logger/typea.ts","./src/features/logger/typeb.ts","./plugins/flags.ts","./plugins/logger.ts"],"version":"5.6.3"}

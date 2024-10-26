@@ -1,0 +1,13 @@
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+  gap: 16px;
+}
+.embla__slide {
+  flex: 0 0 25%;
+  min-width: 0;
+  padding: 60px 16px;
+  background-color: dodgerblue;
+}

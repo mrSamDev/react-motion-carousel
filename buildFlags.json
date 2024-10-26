@@ -1,0 +1,23 @@
+{
+  "logger": {
+    "name": "typeB",
+    "modules": {
+      "exculude": [],
+      "include": []
+    }
+  },
+  "payment": {
+    "name": "payment",
+    "modules": {
+      "exculude": ["x"],
+      "include": ["y"]
+    }
+  },
+  "cat": {
+    "name": "cat-module",
+    "modules": {
+      "exculude": ["dog"],
+      "include": ["cat"]
+    }
+  }
+}
